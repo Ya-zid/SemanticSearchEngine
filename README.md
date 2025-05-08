@@ -28,9 +28,3 @@ This repository contains two Jupyter notebooks that demonstrate the implementati
 - Python 3.8 or higher
 - Jupyter Notebook or JupyterLab
 - Streamlit (for the Semantic Search Engine front-end)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   cd SemanticSearchEngine
